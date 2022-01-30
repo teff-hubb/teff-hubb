@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Frameworks, courses, etc...**
 
+- 🤝 I’m currently looking for a new opportunity **as a developer**
+
 - ⚡ Fun fact **I think i m funny and responsable**
 
 <h3 align="left">Connect with me:</h3>
